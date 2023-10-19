@@ -5,7 +5,7 @@
  *
  * This C++ project is a proof of concept for object-oriented programming (OOP) principles. It showcases how OOP concepts like encapsulation, abstraction, inheritance, and polymorphism are applied to create a Library Management System.
  *
- * Author: Panzaru Tudor-Calin
+ * Author: Tudor-Calin
  * Date: 19/10/2023
  */
 int main() {
